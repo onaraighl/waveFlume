@@ -34,7 +34,7 @@ eta(x,t)=h0+A1\*cos(omega\*t-k1\*x+phi1)+A2\*cos(omega\*t+phi2)\*cos(k2\*x)+A3\*
 
 
 
-Running the matlab FUNCTION fit\_profile\_data\_bootstrap1 generates the 2.5% and 97.5% confidence intervals for
+Running the matlab SCRIPT fit\_profile\_data\_bootstrap1 generates the 2.5% and 97.5% confidence intervals for
 
 the fitted parameters.
 
