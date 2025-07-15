@@ -25,5 +25,9 @@ https://www.youtube.com/watch?v=ahXxWVJAG-E
 
 The results are consistent with classical linear water-wave theory in the small-amplitude approximation.
 
+# Citation
+
+waveFlume has a DOI that can be included in citations: [![DOI](https://zenodo.org/badge/1019618859.svg)](https://doi.org/10.5281/zenodo.15920447)
+
 
 
