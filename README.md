@@ -1,7 +1,5 @@
 # waveFlume
 
-
-
 Suite of data analysis codes for a teaching-and-learning project studying waves in a flume.
 
 
@@ -28,6 +26,8 @@ The results are consistent with classical linear water-wave theory in the small-
 # Citation
 
 waveFlume has a DOI that can be included in citations: [![DOI](https://zenodo.org/badge/1019618859.svg)](https://doi.org/10.5281/zenodo.15920447)
+
+![Cartoon](cartoon.png)
 
 
 
