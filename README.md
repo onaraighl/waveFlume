@@ -8,9 +8,9 @@ Suite of data analysis codes for a teaching-and-learning project studying waves 
 
 The flume and the wavemaker are described in a YouTube video:
 
+![Logo](https://www.youtube.com/watch?v=ahXxWVJAG-E)
 
 
-https://www.youtube.com/watch?v=ahXxWVJAG-E
 
 
 
