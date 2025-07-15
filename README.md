@@ -8,18 +8,13 @@ Suite of data analysis codes for a teaching-and-learning project studying waves 
 
 The flume and the wavemaker are described in a YouTube video:
 
-![Logo](https://www.youtube.com/watch?v=ahXxWVJAG-E)
-
-
-
+https://www.youtube.com/watch?v=ahXxWVJAG-E
 
 
 The flume is made from wood and Perspex and the wavemaker is made from Lego.
 
 
-
 Data from the wavemaker was captured using a mobile phone and uploaded to YouTube.
-
 
 
 The frames from the video have been extracted and digitized.  The free surface from each frame has been 
