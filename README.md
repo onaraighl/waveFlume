@@ -6,7 +6,7 @@ Suite of data analysis codes for a small-scale project studying waves in a flume
 
 
 
-The flume and the wavemaker are described in an YouTube video:
+The flume and the wavemaker are described in a YouTube video:
 
 
 
@@ -26,7 +26,7 @@ The frames from the video have been extracted and digitized.  The free surface f
 
 stored in a csv file available here (/data).  The data has been postprocessed to extract the waveform.
 
-Postprocessing routines (using matlab) are available here.
+Postprocessing routines (using matlab) are available here (/model1 and /model2).
 
 
 
