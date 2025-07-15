@@ -17,9 +17,9 @@ https://www.youtube.com/watch?v=ahXxWVJAG-E
 * The flume is made from wood and Perspex and the wavemaker is made from Lego.
 * Data from the wavemaker was captured using a mobile phone and uploaded to YouTube.
 * The frames from the video have been extracted and digitized.
-* The free surface from each frame has been stored in a csv file available here (/data).
+* The free surface from each frame has been stored in a csv file available here (data/).
 * The data has been postprocessed to extract the waveform.
-* Postprocessing routines (using matlab) are available here (/model1 and /model2).
+* Postprocessing routines (using matlab) are available here (model1/ and model2/).
 
 
 
