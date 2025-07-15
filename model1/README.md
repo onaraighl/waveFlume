@@ -34,7 +34,7 @@ Output variables:
 
 
 
-Running the matlab FUNCTION fit\_profile\_data\_bootstrap generates the 2.5% and 97.5% confidence intervals for
+Running the matlab SCRIPT fit\_profile\_data\_bootstrap generates the 2.5% and 97.5% confidence intervals for
 
 the fitted parameters.
 
