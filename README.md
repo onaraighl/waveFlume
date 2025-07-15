@@ -2,7 +2,7 @@
 
 
 
-Suite of data analysis codes for a small-scale project studying waves in a flume.
+Suite of data analysis codes for a teaching-and-learning project studying waves in a flume.
 
 
 
