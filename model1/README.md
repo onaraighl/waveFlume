@@ -6,17 +6,11 @@ Fits a travelling wave to the data \\eta(x,t) emanating from the video analysis.
 
 
 
-Requires the user to run /data/calculateFreeSurface.m and for the space-time array eta\_array
+Requires the user to run /data/calculateFreeSurface.m and for the space-time array eta_array to be available on the command line, together with the vector of space points xx and the vector of time points t.
 
-to be available on the command line, together with the vector of space points xx and the vector
+# fit_profile_data
 
-of time points t.
-
-
-
-Running  fit\_profile\_data.m gives non-linear least-squares fit.
-
-
+Running  fit_profile_data.m gives non-linear least-squares fit.
 
 Output variables:
 
@@ -28,13 +22,9 @@ Output variables:
 * eta\_final\_orig - the fitted model, defined on the original grid xx (space) and t (time)
 * h0, a1, omega,phi1,k1 - the fitted parameters, where the model is
 
-
-
 \\eta(x,t)=h0+A1\*cos(omega t - kx + \\phi)
 
+# fit_profile_data_bootstrap
 
-
-Running the matlab SCRIPT fit\_profile\_data\_bootstrap generates the 2.5% and 97.5% confidence intervals for
-
-the fitted parameters.
+Running the matlab SCRIPT fit\_profile\_data\_bootstrap generates the 2.5% and 97.5% confidence intervals for the fitted parameters.
 
