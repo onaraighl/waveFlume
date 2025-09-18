@@ -1,12 +1,6 @@
 # waveFlume/data
 
-Data files for analysing the video.
-
-
-
-Link to video:
-
-
+Data files for analysing the video.  Link to video:
 
 https://www.youtube.com/watch?v=ahXxWVJAG-E
 
