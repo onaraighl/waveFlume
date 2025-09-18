@@ -1,0 +1,36 @@
+/*---------------------------------------------------------------------------*\
+  =========                 |
+  \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox
+   \\    /   O peration     | Website:  https://openfoam.org
+    \\  /    A nd           | Version:  7
+     \\/     M anipulation  |
+\*---------------------------------------------------------------------------*/
+Build  : 7-1ff648926f77
+Exec   : setFields
+Date   : Jul 16 2025
+Time   : 13:02:26
+Host   : "DESKTOP-TBHH8B1"
+PID    : 9126
+I/O    : uncollated
+Case   : /mnt/h/aaOnaraighl/aalive_projects/Nicolas2024_wavetankTEST/olaFlow-master/wavemakerFlume_case11_lowres
+nProcs : 1
+sigFpe : Enabling floating point exception trapping (FOAM_SIGFPE).
+fileModificationChecking : Monitoring run-time modified files using timeStampMaster (fileModificationSkew 10)
+allowSystemOperations : Allowing user-supplied system call operations
+
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+Create time
+
+Create mesh for time = 0
+
+Reading setFieldsDict
+
+Setting field default values
+    Setting internal values of volScalarField alpha.water
+
+Setting field region values
+    Adding cells with center within boxes 1((-10 -1 -1) (30 1 0.05))
+    Setting internal values of volScalarField alpha.water
+
+End
+
