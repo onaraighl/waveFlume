@@ -40,7 +40,7 @@ Performs a nonlinear least squares fit and fits the data in the csv file called 
 
 2.  [h,a,k,phi,xxi,eta,xx,yy]=simple\_interpolation(filename);
 
-fits the data in the csv file called "filename" using simple interpolation and cubic splines.
+Fits the data in the csv file called "filename" using simple interpolation and cubic splines.
 
 * Here, h is interpolated free-surface profile; for each point in the array xx there is a corresponding h-value.
 * Each frame in the video analysis produces a vector h, these are then read into the space-time array eta\_array.
