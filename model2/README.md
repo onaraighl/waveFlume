@@ -24,7 +24,7 @@ Output variables:
 * tt_out - a refined vector of time points
 * eta_final - the fitted model, defined on the grid xx\_out (space) and tt_out (time)
 * eta_final_orig - the fitted model, defined on the original grid xx (space) and t (time)
-* h0, a1, omega,phi1,k1, etc. - the fitted parameters, where the model is
+* h0, a1, omega,phi1,k1, etc. - the fitted parameters.
 
 # fit_profile_data_bootstrap1
 
