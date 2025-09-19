@@ -12,11 +12,11 @@ Requires the user to run /data/calculateFreeSurface.m and for the space-time arr
 
 Running  fit_profile_data.m gives non-linear least-squares fit.  Fitted model:
 
-eta(x,t)=h0+A1\*cos(omega t - kx + \\phi)
+eta(x,t)=h0+A1\*cos(omega t - kx + \phi)
 
 First line of code:
 
-function tbc
+[xx_out,tt_out,eta_final,eta_final_orig,h0,A1,omega,phi1,k1]=fit_profile_data(xx,t,eta_data)
 
 Meaning of variables:
 
