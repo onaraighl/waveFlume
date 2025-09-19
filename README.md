@@ -1,10 +1,12 @@
 # waveFlume
 
-Suite of data analysis codes for a teaching-and-learning project studying waves in a flume.  Document to accompany the project: https://arxiv.org/abs/2507.18403
+Suite of data analysis codes for a teaching-and-learning project studying waves in a flume.  Document to accompany the project: [abs/2507.18403](https://arxiv.org/abs/2507.18403)
 
 The flume and the wavemaker are described in a YouTube video:
 
 https://www.youtube.com/watch?v=ahXxWVJAG-E
+
+[![Watch the video](https://img.youtube.com/vi/ahXxWVJAG-E/0.jpg)](https://www.youtube.com/watch?v=ahXxWVJAG-E)
 
 * The flume is made from wood and Perspex and the wavemaker is made from Lego.
 * Data from the wavemaker was captured using a mobile phone and uploaded to YouTube.
