@@ -1,6 +1,6 @@
 # waveFlume
 
-Suite of data analysis codes for a teaching-and-learning project studying waves in a flume.  The USP of the project is the very nice use of **Lego** to create a piston wavemaker.  
+Suite of codes codes for a teaching-and-learning project studying waves in a flume.  The USP of the project is the very nice use of **Lego** to create a piston wavemaker.  The codes span the range from data analysis, mathematical modelling, ato CFD simulations with OpenFOAM.
 
 * Documentation to accompany the project: [abs/2507.18403](https://arxiv.org/abs/2507.18403).
 * The flume and the wavemaker are described in a **YouTube video** (clickable link below).
