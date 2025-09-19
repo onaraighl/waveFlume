@@ -8,6 +8,14 @@ Requires the user to run /data/calculateFreeSurface.m and for the space-time arr
 
 Running  fit_profile_data1.m gives non-linear least-squares fit.
 
+First line:  
+
+function [xx_out,tt_out,eta_final,eta_final_orig,h0,A1,omega,phi1,k1,A2,phi2,k2,A3,phi3]=fit_profile_data1(xx,t,eta_data)
+
+Meaning of variables:
+
+* xx, t, and eta_data are input variables arising from the video analysis.
+
 Output variables:
 
 * xx_out - a refined vector of space points
