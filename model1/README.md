@@ -10,19 +10,27 @@ Requires the user to run /data/calculateFreeSurface.m and for the space-time arr
 
 # fit_profile_data
 
-Running  fit_profile_data.m gives non-linear least-squares fit.
+Running  fit_profile_data.m gives non-linear least-squares fit.  Fitted model:
+
+eta(x,t)=h0+A1\*cos(omega t - kx + \\phi)
+
+First line of code:
+
+function tbc
+
+Meaning of variables:
+
+* xx, t, and eta_data are input variables arising from the video analysis.
 
 Output variables:
-
-
 
 * xx\_out - a refined vector of space points
 * tt\_out - a refined vector of time points
 * eta\_final - the fitted model, defined on the grid xx\_out (space) and tt\_out (time)
 * eta\_final\_orig - the fitted model, defined on the original grid xx (space) and t (time)
-* h0, a1, omega,phi1,k1 - the fitted parameters, where the model is
+* h0, a1, omega,phi1,k1 - the fitted parameters.
 
-\\eta(x,t)=h0+A1\*cos(omega t - kx + \\phi)
+
 
 # fit_profile_data_bootstrap
 
