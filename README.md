@@ -14,7 +14,7 @@ Suite of codes codes for a teaching-and-learning project studying waves in a flu
 * The frames from the video have been extracted and digitized.
 * The free surface from each frame has been stored in a csv file available in this repository.
 * The data has been postprocessed to extract the waveform.
-* Postprocessing routines (using matlab) are available here.
+* Postprocessing routines (using matlab) are provided in this repository.
 * The results are consistent with classical linear water-wave theory in the small-amplitude approximation.
 
 # Repository Structure:
